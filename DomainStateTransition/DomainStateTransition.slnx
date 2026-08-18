@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Source/">
+    <Project Path="Source/DomainStateTransitions.Domain/DomainStateTransitions.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/DomainStateTransitions.Domain.Tests/DomainStateTransitions.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
